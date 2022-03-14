@@ -19,6 +19,9 @@ app.get("*", (req,res) => {
     res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 
+// route to read db.json
+// res.sendFile(path.join(__dirname, "/db/db.json"));
+
 app.listen(PORT, () => {
     console.log(`App API is live on port ${PORT}.`);
 });
