@@ -1,8 +1,12 @@
 # Note Taker Express.js
 
 ## Table of Contents
+* [Deployed Application](#Deployment)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
+
+## Deployed Application
+* [Note Taker App Live](https://note-taker-app-js.herokuapp.com/)
 
 ## User Story
 * AS A small business owner
